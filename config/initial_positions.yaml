@@ -1,0 +1,9 @@
+# Default initial positions for mobile_manipulator's ros2_control fake system
+
+initial_positions:
+  arm_base_link1_joint: 0
+  arm_link1_link2p1_joint: 0
+  arm_link2p3_link3_joint: 0
+  arm_link3_link4_joint: 0
+  arm_link4_link5_joint: 0
+  arm_link5_link6_joint: 0
